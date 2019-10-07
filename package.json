@@ -18,7 +18,8 @@
     "solidity",
     "ethereum",
     "smart contract",
-    "starter"
+    "message queue",
+    "blockchain"
   ],
   "author": "Circle-Free",
   "license": "MIT",
@@ -33,9 +34,9 @@
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "chai-shallow-deep-equal": "^1.4.6",
-    "ethlint": "^1.2.4",
-    "prettier": "^1.16.4",
-    "prettier-plugin-solidity": "^1.0.0-alpha.18",
+    "ethlint": "^1.2.5",
+    "prettier": "^1.18.2",
+    "prettier-plugin-solidity": "^1.0.0-alpha.34",
     "web3": "^1.2.1"
   }
 }
